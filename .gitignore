@@ -1,0 +1,11 @@
+advanced-cache.php
+cache/
+db.php
+uploads-bkp/
+uploads/
+w3tc-config/
+node_modules/
+logs
+*.log
+npm-debug.log
+.DS_Store

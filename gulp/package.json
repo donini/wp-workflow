@@ -1,0 +1,29 @@
+{
+  "name": "viva-decora-blog",
+  "version": "1.0.0",
+  "description": ":warning: Evite alterações em produção, use esse tutorial para rodar o blog no seu ambiente local.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VivaReal/vivadecora-revista.git"
+  },
+  "author": "William de Oliveira Souza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VivaReal/vivadecora-revista/issues"
+  },
+  "homepage": "https://github.com/VivaReal/vivadecora-revista#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-expect-file": "0.0.7",
+    "gulp-ignore": "^2.0.1",
+    "gulp-load-plugins": "^1.1.0",
+    "gulp-rimraf": "^0.2.0",
+    "gulp-shell": "^0.5.1",
+    "gulp-util": "^3.0.7",
+    "yargs": "^3.31.0"
+  }
+}
