@@ -6,18 +6,10 @@ Gulp configuration to use with WordPress
 Download wp-workflow to your `wp-content` folder:
 
 ```
-git clone https://github.com/woliveiras/wp-workflow.git
+git clone https://github.com/woliveiras/wp-workflow.git my-wp-content-path
 ````
 
-Move the content of `wp-workflow` to your project:
-
-```
-cd wp-workflow
-
-mv gulp/ package.json ../
-```
-
-Run:
+Open your wp-content folder and run:
 
 ```
 npm i
